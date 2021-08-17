@@ -1,2 +1,1 @@
-Hello World!
-
+Personal website of Prateekshit Pandey.
