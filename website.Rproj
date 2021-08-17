@@ -13,4 +13,4 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Website
-WebsitePath: ~/Documents/github/website
+WebsitePath: ~/Documents/github/prateekshitpandey.github.io
