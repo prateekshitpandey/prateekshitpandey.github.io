@@ -1,7 +1,7 @@
 name: "prateekshit-website"
 
 navbar:
-  title: "My cats' website"
+  title: "Prateekshit Pandey"
   left:
     - text: "Home"
       href: index.html
