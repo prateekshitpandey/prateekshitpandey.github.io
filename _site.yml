@@ -1,0 +1,28 @@
+name: "Prateekshit Pandey"
+output_dir: "."
+navbar:
+  title: "Prateekshit Pandey"
+  left:
+    - text: "Research"
+      href: research.html
+    - text: "Speaking"
+      href: talks.html
+    - text: "Programming"
+      href: software.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: ai-google-scholar ai-lg
+      href: https://scholar.google.com/citations?user=tLbQTZMAAAAJ&hl=en
+    - icon: ai-cv ai-lg
+      href: ./files/Zabor_Emily_CV.pdf
+    - icon: fab fa-github fa-lg
+      href: http://github.com/zabore
+    - icon: fab fa-twitter fa-lg
+      href: https://twitter.com/zabormetrics
+    - icon: fab fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/emily-zabor-59b902b7/
+output:
+  html_document:
+    theme: united
+    css: 'styles.css'
