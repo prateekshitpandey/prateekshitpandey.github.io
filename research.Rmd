@@ -28,7 +28,7 @@ Pandey, P. (2020). Caty Borum Chattoo and Lauren Feldman, A Comedian and an Acti
 
 Kang, Y., Cooper, N., Pandey, P., Scholz, C., O'Donnell, M. B., Lieberman, M. D., Taylor, S. E., Strecher, V. J., Cin, S. D., Konrath, S., Polk, T. A., Resnicow, K., An, L., & Falk, E. B. (2018). E ects of self-transcendence on neural responses to persuasive messages and health behavior change. Proceedings of the National Academy of Sciences.
 
-Yadav D., Kohli N., Nagpal S., Singh M., Pandey P., Vatsa M., Singh R., & Noore A. (2017). Region-speci c fMRI Dictionary for Decoding Face Veri cation in Humans, In Proceedings of International Joint Conference on Neural Networks, 115(40), 9974-9979.
+Yadav D., Kohli N., Nagpal S., Singh M., Pandey P., Vatsa M., Singh R., & Noore A. (2017). Region-speci c fMRI Dictionary for Decoding Face Verification in Humans, In Proceedings of International Joint Conference on Neural Networks, 115(40), 9974-9979.
 
 Pandey P., Singh R., & Vatsa M. (2016). Face Recognition using Scattering Wavelet under Illicit Drug Abuse Variations, In Proceedings of International Conference on Biometrics (ICB). (pp. 1-6). IEEE.
 
