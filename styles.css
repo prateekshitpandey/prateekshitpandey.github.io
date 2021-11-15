@@ -1,12 +1,13 @@
 h1 {
+  font-family: 'Nanum Myeongjo', sans-serif;
   font-size: 38px;
 }
 h1.title {
-  /*font-family: "Sabon";*/
+  font-family: 'Nanum Myeongjo', sans-serif;
   font-size: 38px;
 }
 h2 {
-  /*font-family: "Sabon";*/
+  font-family: 'Nanum Myeongjo', sans-serif;
   font-size: 30px;
 }
 h3 {
@@ -29,7 +30,7 @@ img {
     display: block;
     margin: auto;
 }
-body *{
+body {
   font-family: 'Nanum Myeongjo', sans-serif;
   font-size: 14pt;
 }

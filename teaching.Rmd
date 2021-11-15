@@ -1,6 +1,6 @@
 ---
 title: " "
-pagetitle: "Research"
+pagetitle: "Teaching"
 ---
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -12,8 +12,24 @@ pagetitle: "Research"
 <link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-Teaching Assistant Positions
+<h2> Teaching Experience </h2>
 
-Invited Talks
+<strong>Graduate Teaching Assistant</strong>
+
+COMM282 Sick and Satired – The Insanity of Humor and How It Keeps Us Sane (UPenn, Fall 2017)
+
+<strong>Undergraduate Teaching Assistant</strong>
+
+MTH201 Probability and Statistics (IIIT-Delhi, Winter 2015)
+
+CSE340/540 Image Analysis (IIIT-Delhi, Monsoon 2015)
+
+HSS212 Critical Thinking (IIIT-Delhi, Winter 2016)
+
+<h2> Invited Talks </h2>
+
+<strong> Guest Lecture </strong>, Popular Culture and Media (UPenn, Summer 2019)
+
+<strong> Invited Research Talk </strong> Graduate Seminar on Philosophy of Science and Communication Studies (UDel, Fall 2019)
 
 

@@ -12,7 +12,7 @@ pagetitle: "Research"
 <link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-<h1> Publications </h1>
+<h2> Publications </h2>
 
 <p style="font-size:8em;">
 Cosme, D., Scholz, C., Chan H., Dore B. P., Pandey P., Tartak J. C., Cooper N., Burns S., Paul A., Falk E. B. (2021, August 26). Message self and social relevance increases intentions to share content: Correlational and causal evidence from six studies. PsyArXiv. https://doi.org/10.31234/osf.io/9cxfj *Currently under review at Psychological Science
