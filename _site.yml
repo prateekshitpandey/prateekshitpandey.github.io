@@ -1,28 +1,28 @@
 name: "Prateekshit Pandey"
 output_dir: "."
 navbar:
-  title: "Prateekshit Pandey"
+  title: "About"
   left:
     - text: "Research"
       href: research.html
-    - text: "Speaking"
-      href: talks.html
-    - text: "Programming"
-      href: software.html
+    - text: "Teaching/Speaking"
+      href: teaching.html
+    - text: "Performance"
+      href: performance.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
     - icon: ai-google-scholar ai-lg
-      href: https://scholar.google.com/citations?user=tLbQTZMAAAAJ&hl=en
+      href: https://scholar.google.com/citations?user=MCwvWv0AAAAJ&hl=en
     - icon: ai-cv ai-lg
-      href: ./files/Zabor_Emily_CV.pdf
+      href: ./files/Pandey_CV_Oct2021.pdf
     - icon: fab fa-github fa-lg
-      href: http://github.com/zabore
+      href: http://github.com/prateekshitpandey
     - icon: fab fa-twitter fa-lg
-      href: https://twitter.com/zabormetrics
+      href: https://twitter.com/akaPrateekshit
     - icon: fab fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/emily-zabor-59b902b7/
+      href: https://www.linkedin.com/in/prateekshitpandey/
 output:
   html_document:
-    theme: united
+    theme: simplex
     css: 'styles.css'
