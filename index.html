@@ -50,7 +50,7 @@
         .contact {
             margin: 1.5em 0;
         }
-        @media (max-width: 600px) {
+        @media (max-width: 768px) {
             body {
                 padding: 15px;
                 font-size: 16px;
@@ -60,6 +60,20 @@
             }
             h2 {
                 font-size: 1.2em;
+            }
+            .nav {
+                flex-direction: column;
+            }
+            .nav a {
+                display: none;
+                margin: 10px 0;
+            }
+            .nav a.show {
+                display: block;
+            }
+            .hamburger {
+                display: flex;
+                align-self: center;
             }
         }
         .photo {
@@ -90,6 +104,19 @@
         .nav a:hover {
             color: #000;
             text-decoration: underline;
+        }
+        .hamburger {
+            display: none;
+            flex-direction: column;
+            cursor: pointer;
+            padding: 10px;
+        }
+        .hamburger span {
+            width: 25px;
+            height: 3px;
+            background: #333;
+            margin: 3px 0;
+            transition: 0.3s;
         }
     </style>
 </head>
