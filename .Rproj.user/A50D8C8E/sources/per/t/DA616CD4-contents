@@ -1,0 +1,38 @@
+---
+title: " "
+pagetitle: "Research"
+---
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap" rel="stylesheet"> 
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+<h2> Publications </h2>
+
+<p style="font-size:8em;">
+Cosme, D., Scholz, C., Chan H., Dore B. P., Pandey P., Tartak J. C., Cooper N., Burns S., Paul A., Falk E. B. (2021, August 26). Message self and social relevance increases intentions to share content: Correlational and causal evidence from six studies. PsyArXiv. https://doi.org/10.31234/osf.io/9cxfj *Currently under review at Psychological Science
+
+Jovanova, M., Falk, E. B., Parelman J., Pandey P., O'Donnell, M. B., Kang, Y., Bassett, D. S., & Lydon-Staley, D. M. (2021, March 26). Brain System Integration and Message Consistent Health Behavior Change. PsyArXiv.
+doi:10.31234/osf.io/ukbta. *Currently under review at Health Psychology
+
+Kang, Y., Cosme, D., Pei, R., Pandey, P., Carreras-Tartak, J., & Falk, E. B. (2021). Purpose in life, loneliness, and protective health behaviors during the COVID-19 pandemic. The Gerontologist. Pandey, P., Kang, Y., Cooper, N., O'Donnell, M. B., & Falk, E. B. (2021). Social networks and neural receptivity to persuasive health messages. Health Psychology, 40 (4), 285.
+
+Coronel, J. C., O'Donnell, M. B., Pandey P., Delli Carpini, M. X., & Falk E. B. (2021). Political Humor, Sharing, and Remembering: Insights from Neuroimaging, Journal of Communication, 71 (1), 129-161.
+
+Pandey, P. (2020). Caty Borum Chattoo and Lauren Feldman, A Comedian and an Activist Walk into a Bar: The Serious Role of Comedy in Social Justice. International Journal of Communication, 14, 3. 
+
+Kang, Y., Cooper, N., Pandey, P., Scholz, C., O'Donnell, M. B., Lieberman, M. D., Taylor, S. E., Strecher, V. J., Cin, S. D., Konrath, S., Polk, T. A., Resnicow, K., An, L., & Falk, E. B. (2018). E ects of self-transcendence on neural responses to persuasive messages and health behavior change. Proceedings of the National Academy of Sciences.
+
+Yadav D., Kohli N., Nagpal S., Singh M., Pandey P., Vatsa M., Singh R., & Noore A. (2017). Region-speci c fMRI Dictionary for Decoding Face Verification in Humans, In Proceedings of International Joint Conference on Neural Networks, 115(40), 9974-9979.
+
+Pandey P., Singh R., & Vatsa M. (2016). Face Recognition using Scattering Wavelet under Illicit Drug Abuse Variations, In Proceedings of International Conference on Biometrics (ICB). (pp. 1-6). IEEE.
+
+Yadav D., Kohli N., Pandey P., Singh R., Vatsa M., & Noore A. (2016). E ect of Illicit Drug Abuse on Face Recognition, In Proceedings of Winter Conference on Applications of Computer Vision (WACV). (pp. 1-7). IEEE. *Received Best Paper Award when presented at WACV 2016.
+
+Sankaran A., Pandey P., Vatsa M., & Singh R. (2014). On Latent Fingerprint Minutiae Extraction using Stacked Denoising Sparse AutoEncoders, In Proceedings of International Joint Conference on Biometrics. (pp. 1-7). IEEE. *Received Best Poster Award when presented at IJCB 2014.
+</p>
